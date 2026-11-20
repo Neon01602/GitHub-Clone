@@ -5,7 +5,7 @@
 CodeVault brings repositories, collaboration workflows and Git operations into a clean developer workspace. This project is also an AWS deployment and integration exercise: the application is hosted on EC2 and connects to AWS services for data and background-job workflows.
 
 <p align="center">
-  <img src="docs/screenshots/codevault-repositories.jpg" alt="CodeVault repositories dashboard" width="100%" />
+  <img src="docs/screenshots/codevault-repositories.png" alt="CodeVault repositories dashboard" width="100%" />
 </p>
 
 ## What is CodeVault?
@@ -98,7 +98,7 @@ Open the local Vite URL shown in the terminal (typically `http://localhost:5173`
 ├── frontend/      # React + Vite application
 └── docs/
     └── screenshots/
-        └── codevault-repositories.jpg
+        └── codevault-repositories.png
 ```
 
 ## Security notes
